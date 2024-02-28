@@ -1,0 +1,19 @@
+.history .title_history{
+    text-align: center;
+    font-size: 3rem;
+    color: #fff;
+    font-family: var(--font_header);
+    font-weight: bold;
+}
+.container_history{
+    width: 400px;
+    padding: 40px 40px;
+}
+.container_history .content{
+    color: #fff;
+    font-size: 1.4rem;
+    line-height: 180%;
+    text-align: justify;
+    text-indent: 2em;
+    font-family: 'Roboto', sans-serif;
+}

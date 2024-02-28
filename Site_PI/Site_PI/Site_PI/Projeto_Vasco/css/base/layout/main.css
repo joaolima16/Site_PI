@@ -1,0 +1,31 @@
+.main_container{
+    padding: 100px 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 200px;
+
+}
+.name_team {
+    padding: 15px 5px;
+}
+.name_team{
+    margin: 50px;
+}
+.name_team .title{
+    color: #fff;
+    font-family: var(--font_title);
+    font-size: 60px;
+    font-weight: bold;
+   
+}
+.name_team .subtitle{
+    color: red;
+    font-family: var(__font_title);
+    font-size: 3rem;
+    font-weight: 600;
+}
+.vasconha{
+    width: 400px;
+    height: auto;
+}

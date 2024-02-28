@@ -1,0 +1,10 @@
+
+@import "./base/reset.css";
+@import "./base/variaveis.css";
+@import "./base/layout/header.css";
+@import "./base/layout/main.css";
+@import "./base/layout/section_history.css";
+@import "./base/layout/footer.css";
+body{
+    background-color: var(--background);
+}

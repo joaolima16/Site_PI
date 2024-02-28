@@ -1,0 +1,13 @@
+.footer{
+    width: 100%;
+    border-top: 5px solid #fff;
+    height: 8vh;
+}
+.copyright{
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    padding: 30px;
+    font-weight: bold;
+}
