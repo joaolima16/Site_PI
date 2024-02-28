@@ -1,0 +1,8 @@
+
+@import "./base/reset.css";
+@import "./base/variaveis.css";
+@import "./base/layout/header.css";
+@import "./base/layout/main.css";
+body{
+    background-color: var(--background);
+}
